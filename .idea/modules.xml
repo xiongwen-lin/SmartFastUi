@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmartFastUi.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/SmartFastUi.buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/YRWidget.iml" filepath="$PROJECT_DIR$/.idea/modules/YRWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/YRResource/YRWidget.YRResource.iml" filepath="$PROJECT_DIR$/.idea/modules/YRResource/YRWidget.YRResource.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/YRWidget/YRWidget.YRWidget.iml" filepath="$PROJECT_DIR$/.idea/modules/YRWidget/YRWidget.YRWidget.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YRWidget.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/YRWidget.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc1/YRWidget.buildSrc1.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc1/YRWidget.buildSrc1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/YRWidget.example.iml" filepath="$PROJECT_DIR$/.idea/modules/example/YRWidget.example.iml" />
     </modules>
   </component>

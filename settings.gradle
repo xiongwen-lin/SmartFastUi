@@ -2,3 +2,4 @@ rootProject.name = "YRWidget"
 include ':example'
 include ':YRResource'
 include ':YRWidget'
+include ':buildSrc1'

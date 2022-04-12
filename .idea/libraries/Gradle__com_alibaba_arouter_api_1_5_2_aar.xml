@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7d849847e16e01001874a63ae6b9428a/transformed/jetified-arouter-api-1.5.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d849847e16e01001874a63ae6b9428a/transformed/jetified-arouter-api-1.5.2/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d849847e16e01001874a63ae6b9428a/transformed/jetified-arouter-api-1.5.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a813acecc9660722ad1d9882a82fd971/transformed/jetified-arouter-api-1.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a813acecc9660722ad1d9882a82fd971/transformed/jetified-arouter-api-1.5.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a813acecc9660722ad1d9882a82fd971/transformed/jetified-arouter-api-1.5.2/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/arouter-api/1.5.2/4ab0005a3f2fb8b37c46e2fa341402c21a005146/arouter-api-1.5.2-javadoc.jar!/" />
