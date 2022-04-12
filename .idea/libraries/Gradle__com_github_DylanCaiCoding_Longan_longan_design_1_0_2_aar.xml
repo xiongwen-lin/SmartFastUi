@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.DylanCaiCoding.Longan:longan-design:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e3bc82a5e1e6c110793e4b47e49a36a2/transformed/jetified-longan-design-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3bc82a5e1e6c110793e4b47e49a36a2/transformed/jetified-longan-design-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3bc82a5e1e6c110793e4b47e49a36a2/transformed/jetified-longan-design-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.DylanCaiCoding.Longan/longan-design/1.0.2/2115793d6344bffec9c70aedbc664e8a227a712d/longan-design-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

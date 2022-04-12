@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apemans:YRUIBusiness:1.0.15@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/922e4a87b67f0426479b077ec086f132/transformed/jetified-YRUIBusiness-1.0.15/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/922e4a87b67f0426479b077ec086f132/transformed/jetified-YRUIBusiness-1.0.15/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/922e4a87b67f0426479b077ec086f132/transformed/jetified-YRUIBusiness-1.0.15/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dianping.android.sdk:logan:1.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/27f4d81161b9bccb09edccf49657c606/transformed/jetified-logan-1.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/27f4d81161b9bccb09edccf49657c606/transformed/jetified-logan-1.2.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/27f4d81161b9bccb09edccf49657c606/transformed/jetified-logan-1.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianping.android.sdk/logan/1.2.4/c2723bd1179a50a7909e8e4e09dfce8bd0b8c8e9/logan-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apemans:YRMessagePush:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/14cda8b85999ea21d94d85dab0d8fc04/transformed/jetified-YRMessagePush-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/14cda8b85999ea21d94d85dab0d8fc04/transformed/jetified-YRMessagePush-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/14cda8b85999ea21d94d85dab0d8fc04/transformed/jetified-YRMessagePush-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

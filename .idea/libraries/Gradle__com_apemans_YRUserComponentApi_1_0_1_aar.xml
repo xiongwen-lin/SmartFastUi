@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apemans:YRUserComponentApi:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/54f9190cc2b68f9595ea3c351fd95d2d/transformed/jetified-YRUserComponentApi-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/54f9190cc2b68f9595ea3c351fd95d2d/transformed/jetified-YRUserComponentApi-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/54f9190cc2b68f9595ea3c351fd95d2d/transformed/jetified-YRUserComponentApi-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

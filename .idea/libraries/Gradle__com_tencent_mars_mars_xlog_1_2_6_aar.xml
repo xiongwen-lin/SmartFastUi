@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.mars:mars-xlog:1.2.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b5b1911814053ce1cd04111293db108/transformed/jetified-mars-xlog-1.2.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b5b1911814053ce1cd04111293db108/transformed/jetified-mars-xlog-1.2.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b5b1911814053ce1cd04111293db108/transformed/jetified-mars-xlog-1.2.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mars/mars-xlog/1.2.6/ed6296f560a557ba11f5aa0d1bc5e47a95cd17dc/mars-xlog-1.2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mars/mars-xlog/1.2.6/849fa2d9f70dfd779e7b97097f4e4e33c40c95a1/mars-xlog-1.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
