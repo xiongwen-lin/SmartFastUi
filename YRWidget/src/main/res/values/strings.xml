@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="dialog_take_photo">Take photo</string>
+    <string name="dialog_select_album">select album</string>
+</resources>

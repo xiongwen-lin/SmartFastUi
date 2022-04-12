@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="preference_item_splitLine">#20373F54</color>
+    <color name="preference_titleTextColor">@android:color/black</color>
+    <color name="preferenceCategory_titleTextColor">@android:color/black</color>
+    <color name="preferenceCategory_backGroundColor">#10373F54</color>
+
+    <color name="button_un_click_bg">#E3E3E3</color>
+    <color name="button_un_click_txt">#C5C5C5</color>
+    <color name="button_state_pressed_bg">#26000000</color>
+
+</resources>

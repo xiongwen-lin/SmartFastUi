@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--不同品牌主题颜色-->
+    <color name="theme_color">#F4F03B</color>
+    <!--不同品牌次主题颜色，Osiao跟theme_color一致，Fokoos主题色是黄+黑（影响文字、checkbox等）-->
+    <color name="theme_sub_color">#FF333333</color>
+  <!--部分富文本中的可点击链接颜色-->
+    <color name="theme_link_color">#1A73E8</color>
+    <!--不同品牌主题下(常用按钮颜色)-->
+    <color name="theme_button_color">#F4F03B</color>
+    <color name="theme_button_text_color">#FF333333</color>
+</resources>

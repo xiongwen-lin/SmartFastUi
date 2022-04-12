@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YRUIWidget</string>
+
+    <string name="title_label_text"> 1、LabelTextIconView 文本图标</string>
+    <string name="title_smart_edittext">2、SmartEditBox 输入框</string>
+    <string name="title_smart_dialog">3、SmartDialog 对话框</string>
+    <string name="title_smart_button">4、SmartButton 按钮</string>
+    <string name="title_switch_button">5、SwitchButton 开关</string>
+
+    <string name="labelTextIconView">1、labelTextIconView文本+右操作键：</string>
+    <string name="labelTextDetailIconView">2、labelTextDetailIconView正副文本：</string>
+    <string name="labelTextInfoIconView">3、labelTextInfoIconView正副文本</string>
+    <string name="labelTextSwitchBtnView">4、labelTextSwitchBtnView 正文+开关</string>
+    <string name="labelTextDetailSwitchBtnView">5、labelTextDetailSwitchBtnView正副文本+开关：</string>
+
+    <string name="labelTextSelectionView">6、labelTextSelectionView</string>
+
+    <string name="labelTextDetailSelectionView">7、labelTextDetailSelectionView多段文本和状态选中：</string>
+
+
+
+
+</resources>

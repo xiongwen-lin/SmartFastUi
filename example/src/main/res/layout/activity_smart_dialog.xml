@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="16dp"
+   >
+
+
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btHeaderDialog"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:visibility="gone"
+       app:text="头像对话框"
+       />
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btSmartDialog"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="通用双按钮"
+       />
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btSmartDialogSingle"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="单按钮"
+       />
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btSmartDialogIcon"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="顶部图标"
+       />
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btSmartDialogCheckBox"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="支持复选框"
+       />
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btSmartDialogEdt"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="支持输入框"
+       />
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/btSmartDialogPic"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="支持插画"
+       />
+
+
+
+</LinearLayout>

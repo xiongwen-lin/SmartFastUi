@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:padding="16dp"
+   >
+
+
+   <com.apemans.quickui.switchwidget.SwitchButton
+       android:id="@+id/sbLabelText"
+       android:layout_width="42dp"
+       android:layout_height="24dp"
+       app:sb_checked="true"
+       app:sb_checked_color="@color/theme_color"
+       app:sb_click_auto_switch="true" />
+
+   <TextView
+       android:layout_marginTop="35dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="开关：（1）sb_checked_color颜色（2） app:sb_checked=true 开启"
+       />
+</LinearLayout>

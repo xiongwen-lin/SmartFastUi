@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:padding="15dp"
+       >
+   <TextView
+       android:layout_marginTop="@dimen/dp_20"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+
+       android:text="1.normal模式（无标题+有清除键）"/>
+   <com.apemans.quickui.editbox.SmartEditBox
+       android:id="@+id/edt_normal"
+       android:layout_marginTop="@dimen/dp_20"
+       android:layout_width="match_parent"
+       app:hint="请输入"
+       android:gravity="center_vertical"
+       android:layout_height="wrap_content"/>
+
+      <TextView
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="2.密码( android:inputType=textPassword)"/>
+      <com.apemans.quickui.editbox.SmartEditBox
+          android:id="@+id/edtPassword"
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:inputType="textPassword"
+          />
+   <TextView
+       android:layout_marginTop="@dimen/dp_20"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="3.设置标题（.setTitle()）"/>
+   <com.apemans.quickui.editbox.SmartEditBox
+       android:id="@+id/edtTitle"
+       android:layout_marginTop="@dimen/dp_20"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+
+
+
+      <TextView
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="4.输入内容，判断空为错误(.showError())"/>
+      <com.apemans.quickui.editbox.SmartEditBox
+          android:id="@+id/edtError"
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          app:hint="请输入邮箱"
+          />
+
+      <TextView
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="5.输入内容，判断不为空则正确(.setTitleStatus(true))"/>
+      <com.apemans.quickui.editbox.SmartEditBox
+          android:id="@+id/edtRight"
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          app:hint="请输入邮箱"
+          />
+      <TextView
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="6.单行(singleLine=true)"/>
+      <com.apemans.quickui.editbox.SmartEditBox
+          android:id="@+id/edtSignal"
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:singleLine="true"
+          />
+
+      <TextView
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="7.多行(lines=4)"/>
+      <com.apemans.quickui.editbox.SmartEditBox
+          android:layout_marginTop="@dimen/dp_20"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:lines="4"
+          />
+   </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

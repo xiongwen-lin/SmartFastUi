@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:padding="35dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+   <TextView
+
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="UI控件演示说明"/>
+
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/tvLabelTextIconView"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="@string/title_label_text"/>
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/tvSmartEditBox"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="@string/title_smart_edittext"/>
+
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/tvSmartDialog"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="@string/title_smart_dialog"/>
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/tvSmartButton"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="@string/title_smart_button"/>
+   <com.apemans.quickui.button.SmartButton
+       android:id="@+id/tvSwitchButton"
+       android:layout_marginTop="@dimen/main_button_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:text="@string/title_switch_button"/>
+
+</LinearLayout>
